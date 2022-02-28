@@ -1,3 +1,3 @@
-# A dapp for SEL token presale 
+# A dapp for EXYRIUM token presale 
 
-To participant, go to [dapp.exyrium.org/sel-pre-sale](https://dapp.exyrium.org/sel-pre-sale)
+Lets Contribution for this dapp. 
